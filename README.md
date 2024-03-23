@@ -18,8 +18,6 @@ The dataset used in this project is the [Dogs vs. Cats dataset](https://www.kagg
 - scikit-image
 
 You can install the required dependencies using the following command:
-
-```bash
 pip install numpy pandas matplotlib scikit-learn scikit-image
 
 ## Usage
